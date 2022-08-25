@@ -1,34 +1,33 @@
-# RocketMovies API
+<h1 align='center'>API Rocket Movie</h1>
+<p align='center'>Creating an API that performs registration and updating of users, as well as the insertion and deletion of notes and tags</p>
 
-<img src="" alt='foto da api'>
-
-
-## 🚀 Começando -
-
-### 🔧 Instalação
+## Instalação
 
 npm install\
 npm run migrate\
 npm run dev
 
-## 📦 Desenvolvimento
+## Tecnologias
+Javascript\
+NodeJS usando Express\
+SQLite
 
-API em Node.js onde foi utilizado o "Query Builder" para migrations, Knex para conectar com o banco de dados e Middleware para manipulação de erros
+## Mais sobre o projeto
+Foi utilizado o "Query Builder" para migrations\
+Foi utilizado Knex para conectar com o banco de dados\
+E Middleware para manipulação de erros
 
-## 🛠️ Construído com
+## Arquitetura
 
-<img align="center" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">  <img align="center" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">  <img align="center" height="50" width="65" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg"> 
+![image](https://user-images.githubusercontent.com/41653026/175948770-eefa9fb0-14f0-4d25-8b80-bb789a770487.png)
 
-JavaScript | Node.js | SQLite
+## Ferramentas
+Beekeeper Studio Ultimate - Banco de dados\
+Insomnia - Teste de API\
+Visual Studio Code
 
-## 📌 Versão
+## API
 
-Versão única
+![Screenshot_1](https://user-images.githubusercontent.com/41653026/175949439-43ddc7eb-c283-4e25-9b47-d59722e53c99.png)
 
-## ✒️ Autor
 
-- **Gabriel Vinhas** - [Gabriel Vinhas](https://www.linkedin.com/in/gabrielvinhas/)
-
-## 🎁 Agradecimentos
-
-Com ❤️ por [Gabriel Vinhas](https://github.com/GabrielVinhas) 😊
